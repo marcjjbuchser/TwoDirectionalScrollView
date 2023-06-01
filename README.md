@@ -4,7 +4,7 @@ Extended (working) example for TwoDirectionalSnapList.swift:
 https://gist.github.com/sameersyd/fce9599687963fca90677d959dce7a6e
 
 Added: TabImageViewCell, Media and Message class
-TODO: Add image array for vertical scrolling
+TODO: Add image array for vertical scrolling and add complete xcode project
 
   Usage example:
   // Create media
@@ -15,3 +15,9 @@ TODO: Add image array for vertical scrolling
   HomeView(viewModel: HomeViewModel(messages: messages))
     
   Note: images need to be in the assets folder of the project and the names of the images copied into the image parameters above <your image name here>
+
+  For example pictures check out: https://picsum.photos
+  
+  
+  
+  
