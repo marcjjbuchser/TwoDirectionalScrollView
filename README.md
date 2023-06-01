@@ -17,8 +17,4 @@ TODO: Add image array for vertical scrolling and add complete xcode project
   Note: images need to be in the assets folder of the project and the names of the images copied into the image parameters above <your image name here>
 
   For example pictures check out: https://picsum.photos
-  
-  [![Screen recording](https://github.com/marcjjbuchser/TwoDirectionalScrollView/blob/main/Simulator Screen Recording - iPhone 14.mp4)
-
-  
-  
+    
