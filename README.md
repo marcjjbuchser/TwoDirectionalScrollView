@@ -9,7 +9,7 @@ TODO: Add image array for vertical scrolling and add complete xcode project
 
 
   Usage example:
-
+```
   // Create media
 
   let media1 = Media(id: 1, image: "<your image name here>")
@@ -22,9 +22,9 @@ TODO: Add image array for vertical scrolling and add complete xcode project
 
 
   HomeView(viewModel: HomeViewModel(messages: messages))
-
+```
     
-  Note: images need to be in the assets folder of the project and the names of the images copied into the image parameters above <your image name here>
+  Note: images need to be in the assets folder of the project and the names of the images copied into the image parameters above <your image name here>.
 
   For example pictures check out: https://picsum.photos
     
